@@ -1,3 +1,1 @@
-if 5 < 2:
-    print("YES")
-
+print("Hello, World!")
